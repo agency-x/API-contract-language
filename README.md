@@ -1,7 +1,7 @@
 API-contract-language
 =====================
 
-_This document is in draft.  Please share any ideas on how we can improve it by [filing an issue](https://github.com/agency-x/api-standards/issues).  You can also directly suggest edits with a pull requrest._  
+_This document is in draft.  Please share any ideas on how we can improve it by [filing an issue](https://github.com/agency-x/API-contract-language/issues).  You can also directly suggest edits with a pull requrest._  
 
 
 ### Scenario A
